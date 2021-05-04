@@ -1,0 +1,9 @@
+// RUN THIS ONCE EVERY TIME YOU OPEN PROJECT!
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "outDir": "js",
+        "target": "ES2015",
+        "watch": true
+    }
+}
