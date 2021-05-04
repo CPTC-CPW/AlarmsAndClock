@@ -1,4 +1,4 @@
-// RUN THIS ONCE EVRYTIME YOU OPEN PROJECT!
+// RUN THIS ONCE EVERY TIME YOU OPEN PROJECT!
 {
     "compilerOptions": {
         "removeComments": true,
